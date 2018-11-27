@@ -1,0 +1,53 @@
+{
+  "description": "Comparative Cost of Solar vs. Grid cost",
+  "cost data": [{
+    "monthOne": [{
+      "solar": "XXX",
+      "grid": "XXX",
+      }],
+    "monthTwo": [{
+      "solar": "XXX",
+      "grid": "XXX",
+      }],
+    "monthThree": [{
+      "solar": "XXX",
+      "grid": "XXX",
+      }],
+    "monthFour": [{
+      "solar": "XXX",
+      "grid": "XXX",
+      }],
+    "monthFive": [{
+      "solar": "XXX",
+      "grid": "XXX",
+      }],
+    "monthSix": [{
+      "solar": "XXX",
+      "grid": "XXX",
+      }],
+    "monthSeven": [{
+      "solar": "XXX",
+      "grid": "XXX",
+      }],
+    "monthEight": [{
+      "solar": "XXX",
+      "grid": "XXX",
+      }],
+    "monthNine": [{
+      "solar": "XXX",
+      "grid": "XXX",
+      }],
+    "monthTen": [{
+      "solar": "XXX",
+      "grid": "XXX",
+      }],
+    "monthEleven": [{
+      "solar": "XXX",
+      "grid": "XXX",
+      }],
+    "monthTwelve": [{
+      "solar": "XXX",
+      "grid": "XXX",
+      }],
+  }]
+}
